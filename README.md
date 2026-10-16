@@ -1,4 +1,4 @@
-# Quantum-Computer-Orgnaization
+# Quantum-Computer-Organization
 
 This repository contains my projects and assignments from Quantum Computer Organization at RPI.
 The coursework focuses on the practical and theoretical foundations of quantum computing, with an emphasis on implementing, analyzing, and running quantum circuits using Qiskit and IBM Quantum systems.
